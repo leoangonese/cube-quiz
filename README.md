@@ -1,3 +1,5 @@
+@cube.png
+
 ## Apresentação
 O CubeQuiz é um aplicativo mobile Android feito em Java, nele foi usado Firebase, constraint layout, gifs, imagens, fragmentos, sensores de proximidade e acelerador e tela SplashScreen.
 
