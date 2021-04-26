@@ -15,7 +15,3 @@ Christian Santos - @ChristianSantos07
 João Silveira - @silveirajoao
 Guilherme Angonese - @Guizinhu09
 Leonardo Angonese - @leoangonese
-
-##
-
-Inspiração para repositório: @jorgsiq
