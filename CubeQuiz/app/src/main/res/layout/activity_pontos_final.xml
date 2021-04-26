@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    tools:context=".questions.PontosFinal">
+
+    <TextView
+        android:id="@+id/txtPontosFinal"
+        android:layout_width="0dp"
+        android:layout_height="92dp"
+        android:layout_marginStart="55dp"
+        android:layout_marginTop="52dp"
+        android:layout_marginEnd="55dp"
+        android:gravity="center_horizontal"
+        android:text="Você chegou ao final do nosso quiz, sua pontuação foi: 0 "
+        android:textColor="#FFFFFF"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <WebView
+        android:id="@+id/gifFinal"
+        android:layout_width="297dp"
+        android:layout_height="314dp"
+        android:layout_marginTop="24dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtPontosFinal" />
+
+    <Button
+        android:id="@+id/btnJogarNovamente"
+        android:layout_width="290dp"
+        android:layout_height="62dp"
+        android:layout_marginTop="28dp"
+        android:backgroundTint="#9823c6"
+        android:text="Jogar Novamente"
+        app:cornerRadius="50dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.528"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/gifFinal" />
+
+    <Button
+        android:id="@+id/btnTelaInicial"
+        android:layout_width="290dp"
+        android:layout_height="62dp"
+        android:layout_marginTop="12dp"
+        android:backgroundTint="#9823c6"
+        android:text="Início"
+        app:cornerRadius="50dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnJogarNovamente" />
+</androidx.constraintlayout.widget.ConstraintLayout>
