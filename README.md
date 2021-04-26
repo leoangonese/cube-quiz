@@ -4,10 +4,13 @@ O CubeQuiz é um aplicativo mobile feito em java, nele foi usado Firebase, const
 ## Firebase 
 Dentro do Firebase foi criado uma função para entrar e se cadastrar. 
 
+##Observação 
+As imagens da pasta drawable foram retiradas e colocadas na pasta "images for drawable", por conta do limite de arquivos do GitHub
+
 
 ## Desenvolvedores
 
 Christian Santos - @ChristianSantos07
 Joao Silveira - @silveirajoao
 Guilherme Angonese - @Guizinhu09
-Leonardo Angonese - @leoangonese 
+Leonardo Angonese - @leoangonese
