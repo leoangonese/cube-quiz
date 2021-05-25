@@ -1,4 +1,3 @@
-<img src=cube.png/>
 <img src=cubei.png/>
 <img src=ola.png/>
 
