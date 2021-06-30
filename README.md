@@ -1,17 +1,16 @@
 <img src=cubei.png/>
 <img src=olaa.png/>
 
-## Apresentação
-O CubeQuiz é um aplicativo mobile Android feito em Java, nele foi usado Firebase, constraint layout, gifs, imagens, fragmentos, sensores de proximidade, de acelerador e tela SplashScreen.
+## Presentation
+CubeQuiz is an Android mobile application made in Java, using Firebase, constraint layout, gifs, images, fragments, proximity sensors, accelerator and SplashScreen screen.
 
 ## Firebase 
-Dentro do Firebase foi criado uma função para entrar e se cadastrar. 
+Within Firebase a function was created to login and register.
 
-## Observação 
-As imagens da pasta drawable foram retiradas e colocadas na pasta "images_for_drawable", por conta do limite de arquivos do GitHub.
+## Observation 
+The images from the drawable folder have been removed and placed in the "images_for_drawable" folder, due to the GitHub file limit.
 
-
-## Desenvolvedores
+## Developers
  @leoangonese  <br/>
  @silveirajoao <br/>
  @Guizinhu09 <br/>
