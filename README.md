@@ -11,7 +11,7 @@ Within Firebase a function was created to login and register.
 The images from the drawable folder have been removed and placed in the "images_for_drawable" folder, due to the GitHub file limit.
 
 ## Developers
- @leoangonese  <br/>
- @silveirajoao <br/>
- @Guizinhu09 <br/>
- @ChristianSantos07
+ [@leoangonese]()  <br/>
+ [@silveirajoao](https://github.com/silveirajoao) <br/>
+ [@Guizinhu09](https://github.com/Guizinhu09) <br/>
+ [@ChristianSantos07](https://github.com/ChristianSantos07)
