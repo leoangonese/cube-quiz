@@ -1,14 +1,19 @@
-<img src=cubei.png/>
-<img src=olaa.png/>
+<h1 align="center">
+<br>
+  <img src="cubei.png" alt="Cube Quiz" width="425">
+<br>
+<br>
+Cube Quiz
+</h1>
 
-## Presentation
-CubeQuiz is an Android mobile application made in Java, using Firebase, constraint layout, gifs, images, fragments, proximity sensors, accelerator and SplashScreen screen.
+<p align="center">CubeQuiz is an Android mobile app made in Java, it is a general knowledge quiz.</p>
 
-## Firebase 
-Within Firebase a function was created to login and register.
+[//]: # (Add your gifs/images here:)
+<div>
+  <img src="olaa.png" alt="demo" height="425">
+</div>
 
-## Observation 
-The images from the drawable folder have been removed and placed in the "images_for_drawable" folder, due to the GitHub file limit.
+<hr />
 
 ## Developers
  [@leoangonese](https://github.com/leoangonese)  <br/>
