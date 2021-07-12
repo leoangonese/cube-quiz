@@ -4,7 +4,7 @@
 <br>
 </h1>
 
-<p align="center">CubeQuiz is an Android mobile app made in Java, it is a general knowledge quiz.</p>
+<p align="center"><Strong>CubeQuiz is an Android mobile app made in Java, it is a general knowledge quiz.<Strong></p>
 
 [//]: # (Add your gifs/images here:)
 <div>
