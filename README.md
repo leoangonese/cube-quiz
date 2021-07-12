@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="cubei.png" alt="Cube Quiz" width="425">
+  <img src="cubei.png" alt="Cube Quiz">
 <br>
 <br>
 Cube Quiz
