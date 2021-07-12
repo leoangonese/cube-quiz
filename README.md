@@ -2,8 +2,6 @@
 <br>
   <img src="cubei.png" alt="Cube Quiz">
 <br>
-<br>
-Cube Quiz
 </h1>
 
 <p align="center">CubeQuiz is an Android mobile app made in Java, it is a general knowledge quiz.</p>
