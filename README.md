@@ -10,9 +10,8 @@
 <div>
   <img src="olaa.png" alt="demo" height="425">
 </div>
-
-<hr />
-  ## Built with
+  
+## Built with
 [//]: # (Add the features of your project here:)
 
 - ⚛️ **Java** — 
