@@ -7,7 +7,7 @@ My first App and project this is a general knowledge quiz.
 
 ## Screenshots
 
-![App Screenshot](cubei.png)
+![App Screenshot](screenshot.png)
 
 
 ## Language Used
