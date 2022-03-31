@@ -1,0 +1,103 @@
+com/example/cubequiz/questions/Questao3.java
+ com.example.cubequiz.questions.Questao3
+ com.example.cubequiz.questions.Questao3$1
+ com.example.cubequiz.questions.Questao3$2
+ com.example.cubequiz.questions.Questao3$3
+ com.example.cubequiz.questions.Questao3$4
+com/example/cubequiz/activity/TelaJogar.java
+ com.example.cubequiz.activity.TelaJogar
+ com.example.cubequiz.activity.TelaJogar$1
+com/example/cubequiz/activity/Conexao.java
+ com.example.cubequiz.activity.Conexao
+ com.example.cubequiz.activity.Conexao$1
+com/example/cubequiz/modelo/Pessoa.java
+ com.example.cubequiz.modelo.Pessoa
+com/example/cubequiz/questions/Questao9.java
+ com.example.cubequiz.questions.Questao9
+ com.example.cubequiz.questions.Questao9$1
+ com.example.cubequiz.questions.Questao9$2
+ com.example.cubequiz.questions.Questao9$3
+ com.example.cubequiz.questions.Questao9$4
+com/example/cubequiz/activity/Cadastro.java
+ com.example.cubequiz.activity.Cadastro
+ com.example.cubequiz.activity.Cadastro$1
+ com.example.cubequiz.activity.Cadastro$1$1
+ com.example.cubequiz.activity.Cadastro$2
+com/example/cubequiz/fragment/CrisFragment.java
+ com.example.cubequiz.fragment.CrisFragment
+ com.example.cubequiz.fragment.CrisFragment$1
+com/example/cubequiz/activity/Login.java
+ com.example.cubequiz.activity.Login
+ com.example.cubequiz.activity.Login$1
+ com.example.cubequiz.activity.Login$2
+ com.example.cubequiz.activity.Login$3
+com/example/cubequiz/loading/Loading.java
+ com.example.cubequiz.loading.Loading
+ com.example.cubequiz.loading.Loading$1
+com/example/cubequiz/questions/Questao6.java
+ com.example.cubequiz.questions.Questao6
+ com.example.cubequiz.questions.Questao6$1
+ com.example.cubequiz.questions.Questao6$2
+ com.example.cubequiz.questions.Questao6$3
+ com.example.cubequiz.questions.Questao6$4
+com/example/cubequiz/fragment/JoaoFragment.java
+ com.example.cubequiz.fragment.JoaoFragment
+ com.example.cubequiz.fragment.JoaoFragment$1
+com/example/cubequiz/activity/Desenvolvedores.java
+ com.example.cubequiz.activity.Desenvolvedores
+ com.example.cubequiz.activity.Desenvolvedores$1
+ com.example.cubequiz.activity.Desenvolvedores$2
+ com.example.cubequiz.activity.Desenvolvedores$3
+ com.example.cubequiz.activity.Desenvolvedores$4
+ com.example.cubequiz.activity.Desenvolvedores$5
+com/example/cubequiz/BuildConfig.java
+ com.example.cubequiz.BuildConfig
+com/example/cubequiz/questions/Questao1.java
+ com.example.cubequiz.questions.Questao1
+ com.example.cubequiz.questions.Questao1$1
+ com.example.cubequiz.questions.Questao1$2
+ com.example.cubequiz.questions.Questao1$3
+ com.example.cubequiz.questions.Questao1$4
+com/example/cubequiz/questions/Questao5.java
+ com.example.cubequiz.questions.Questao5
+ com.example.cubequiz.questions.Questao5$1
+ com.example.cubequiz.questions.Questao5$2
+ com.example.cubequiz.questions.Questao5$3
+ com.example.cubequiz.questions.Questao5$4
+com/example/cubequiz/fragment/LeoFragment.java
+ com.example.cubequiz.fragment.LeoFragment
+ com.example.cubequiz.fragment.LeoFragment$1
+com/example/cubequiz/questions/PontosFinal.java
+ com.example.cubequiz.questions.PontosFinal
+ com.example.cubequiz.questions.PontosFinal$1
+ com.example.cubequiz.questions.PontosFinal$2
+com/example/cubequiz/questions/Questao8.java
+ com.example.cubequiz.questions.Questao8
+ com.example.cubequiz.questions.Questao8$1
+ com.example.cubequiz.questions.Questao8$2
+ com.example.cubequiz.questions.Questao8$3
+ com.example.cubequiz.questions.Questao8$4
+com/example/cubequiz/questions/Questao4.java
+ com.example.cubequiz.questions.Questao4
+com/example/cubequiz/activity/MainActivity.java
+ com.example.cubequiz.activity.MainActivity
+ com.example.cubequiz.activity.MainActivity$1
+ com.example.cubequiz.activity.MainActivity$2
+ com.example.cubequiz.activity.MainActivity$3
+com/example/cubequiz/questions/Questao7.java
+ com.example.cubequiz.questions.Questao7
+com/example/cubequiz/questions/Questao10.java
+ com.example.cubequiz.questions.Questao10
+ com.example.cubequiz.questions.Questao10$1
+ com.example.cubequiz.questions.Questao10$2
+ com.example.cubequiz.questions.Questao10$3
+ com.example.cubequiz.questions.Questao10$4
+com/example/cubequiz/questions/Questao2.java
+ com.example.cubequiz.questions.Questao2
+ com.example.cubequiz.questions.Questao2$1
+ com.example.cubequiz.questions.Questao2$2
+ com.example.cubequiz.questions.Questao2$3
+ com.example.cubequiz.questions.Questao2$4
+com/example/cubequiz/fragment/GuiFragment.java
+ com.example.cubequiz.fragment.GuiFragment
+ com.example.cubequiz.fragment.GuiFragment$1

@@ -1,0 +1,371 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:2:1-37:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\cbf08dde3da20d56d9ed7b206137cd9a\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\006b46906b2f770011761845d9282045\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\e7700bf3fcf4236768ca476b82b72080\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\d43ec17db5d741fd4f6cd809fe013547\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\361d5b78b80b012b48922aec0b065fc2\jetified-firebase-auth-19.3.1\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\390bbd04b02f338748e9aea7567d5f1b\jetified-firebase-database-19.3.0\AndroidManifest.xml:15:1-38:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\795c777fa42a2b7dd69e6943f1778c9f\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\9343bafb14981f23529b908b282099d2\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\ba2f6d14ee261b58d0d59648fdd982bb\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\4ffa6d4c273de907c3ddf205db3ad4bd\jetified-firebase-auth-interop-19.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\eecee34b17242397bb82e69bb17e15e1\jetified-firebase-database-collection-17.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\0efd6e16c430e6784fadd19e6d5d8f7d\jetified-play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\8b16677cce4ed498aa5a89d0d2810cc0\jetified-firebase-common-19.3.0\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\4bd86395ec803b061ad27b192511121b\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\673ad0707d733aa5817b98bae7b95b87\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\10200895828a97f345b2c6d8b62c92e0\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\7f4c42c1c3c6ebd681e475a59f065589\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\98e4eac5dbabdc03dc9a3208d4ac5a12\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\6f8a1c65b62d3d41d59ae57c34d2003d\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\7298b494b9a7f8fb03baaa6f856a206c\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\250ab090dfc5bec91fd73a0507b9ad4f\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\e17bdec46d5ed3de9528472d4402ade8\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\cebdbf0203f70fcdd27366005c819665\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\58eb7d79e1e64a19fff6d1a1c648b27f\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\439966cf1b8cc1f27bb07abb4ba5dfaf\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\a08a61d091975000a4dce67a59e2d28a\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\d344556663e01f06659c4b7ee7cd264e\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\a1ba948683f1cc3fb6b9651269eda2cf\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\f47ed8effeee6c20e76fded34a1f3fde\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\222e134cba2d349f1e4065f697f9cee3\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\b0cf5ff9a9e3bf92de74d76f28de8f48\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\8c87e949e9f9d3cdf435adfefa7cc286\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\6217ae39eb11b529fe17c9fec473abce\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\227b0a1796476d93b382253a71582657\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\0fd693cbeda8be952cfd72e782f62993\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\f814974419152abc412d9d41345c2be3\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\fe0f2cef3026b205617f05f4741c49e4\jetified-firebase-components-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\a577a4f2d9e6384dbceeb5e0ea30a993\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\222d2d3818c539e35ee4f60deabbc412\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\5e02444273c6a07c53ce8cd033ff27e1\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\593fd7784a3adf6978e158c9ea2ee8a9\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\ec7322b324972afb3f9d545d46482270\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\af74bd3e08f2c69a186c33b37158b9d9\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\5d2605c4aa56930ff6c6da778c82889b\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\6cbcfb2ce82b6124d3e0157ed6461498\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\f7e4217367496a423c08b58cd7a649f8\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\a16ef9f377ada6515a2739603d983dff\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\8275c6f89d23e4cfe8d5dd5efa714638\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:5:5-35:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\cbf08dde3da20d56d9ed7b206137cd9a\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\cbf08dde3da20d56d9ed7b206137cd9a\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\006b46906b2f770011761845d9282045\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\006b46906b2f770011761845d9282045\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\361d5b78b80b012b48922aec0b065fc2\jetified-firebase-auth-19.3.1\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\361d5b78b80b012b48922aec0b065fc2\jetified-firebase-auth-19.3.1\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\390bbd04b02f338748e9aea7567d5f1b\jetified-firebase-database-19.3.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\390bbd04b02f338748e9aea7567d5f1b\jetified-firebase-database-19.3.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\4ffa6d4c273de907c3ddf205db3ad4bd\jetified-firebase-auth-interop-19.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\4ffa6d4c273de907c3ddf205db3ad4bd\jetified-firebase-auth-interop-19.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\0efd6e16c430e6784fadd19e6d5d8f7d\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\0efd6e16c430e6784fadd19e6d5d8f7d\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\8b16677cce4ed498aa5a89d0d2810cc0\jetified-firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\8b16677cce4ed498aa5a89d0d2810cc0\jetified-firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\4bd86395ec803b061ad27b192511121b\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\4bd86395ec803b061ad27b192511121b\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\673ad0707d733aa5817b98bae7b95b87\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\673ad0707d733aa5817b98bae7b95b87\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.1] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\0fd693cbeda8be952cfd72e782f62993\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\0fd693cbeda8be952cfd72e782f62993\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\a577a4f2d9e6384dbceeb5e0ea30a993\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\a577a4f2d9e6384dbceeb5e0ea30a993\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\0fd693cbeda8be952cfd72e782f62993\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:11:9-46
+activity#com.example.cubequiz.questions.PontosFinal
+ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:12:9-58
+	android:name
+		ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:12:19-56
+activity#com.example.cubequiz.questions.Questao10
+ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:13:9-57
+	android:name
+		ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:13:19-54
+activity#com.example.cubequiz.questions.Questao9
+ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:14:9-56
+	android:name
+		ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:14:19-53
+activity#com.example.cubequiz.questions.Questao8
+ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:15:9-56
+	android:name
+		ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:15:19-53
+activity#com.example.cubequiz.questions.Questao7
+ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:16:9-56
+	android:name
+		ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:16:19-53
+activity#com.example.cubequiz.questions.Questao6
+ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:17:9-56
+	android:name
+		ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:17:19-53
+activity#com.example.cubequiz.questions.Questao5
+ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:18:9-56
+	android:name
+		ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:18:19-53
+activity#com.example.cubequiz.questions.Questao4
+ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:19:9-56
+	android:name
+		ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:19:19-53
+activity#com.example.cubequiz.questions.Questao3
+ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:20:9-56
+	android:name
+		ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:20:19-53
+activity#com.example.cubequiz.questions.Questao2
+ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:21:9-56
+	android:name
+		ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:21:19-53
+activity#com.example.cubequiz.questions.Questao1
+ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:22:9-56
+	android:name
+		ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:22:19-53
+activity#com.example.cubequiz.activity.TelaJogar
+ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:23:9-56
+	android:name
+		ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:23:19-53
+activity#com.example.cubequiz.activity.Desenvolvedores
+ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:24:9-62
+	android:name
+		ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:24:19-59
+activity#com.example.cubequiz.activity.Cadastro
+ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:25:9-55
+	android:name
+		ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:25:19-52
+activity#com.example.cubequiz.activity.Login
+ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:26:9-52
+	android:name
+		ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:26:19-49
+activity#com.example.cubequiz.activity.MainActivity
+ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:27:9-69
+	android:name
+		ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:27:19-56
+activity#com.example.cubequiz.loading.Loading
+ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:28:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\cbf08dde3da20d56d9ed7b206137cd9a\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\cbf08dde3da20d56d9ed7b206137cd9a\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\006b46906b2f770011761845d9282045\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\006b46906b2f770011761845d9282045\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\e7700bf3fcf4236768ca476b82b72080\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\e7700bf3fcf4236768ca476b82b72080\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\d43ec17db5d741fd4f6cd809fe013547\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\d43ec17db5d741fd4f6cd809fe013547\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\361d5b78b80b012b48922aec0b065fc2\jetified-firebase-auth-19.3.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\361d5b78b80b012b48922aec0b065fc2\jetified-firebase-auth-19.3.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\390bbd04b02f338748e9aea7567d5f1b\jetified-firebase-database-19.3.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\390bbd04b02f338748e9aea7567d5f1b\jetified-firebase-database-19.3.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\795c777fa42a2b7dd69e6943f1778c9f\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\795c777fa42a2b7dd69e6943f1778c9f\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\9343bafb14981f23529b908b282099d2\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\9343bafb14981f23529b908b282099d2\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\ba2f6d14ee261b58d0d59648fdd982bb\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\ba2f6d14ee261b58d0d59648fdd982bb\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\4ffa6d4c273de907c3ddf205db3ad4bd\jetified-firebase-auth-interop-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\4ffa6d4c273de907c3ddf205db3ad4bd\jetified-firebase-auth-interop-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\eecee34b17242397bb82e69bb17e15e1\jetified-firebase-database-collection-17.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.1] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\eecee34b17242397bb82e69bb17e15e1\jetified-firebase-database-collection-17.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\0efd6e16c430e6784fadd19e6d5d8f7d\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\0efd6e16c430e6784fadd19e6d5d8f7d\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\8b16677cce4ed498aa5a89d0d2810cc0\jetified-firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\8b16677cce4ed498aa5a89d0d2810cc0\jetified-firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\4bd86395ec803b061ad27b192511121b\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\4bd86395ec803b061ad27b192511121b\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\673ad0707d733aa5817b98bae7b95b87\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\673ad0707d733aa5817b98bae7b95b87\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\10200895828a97f345b2c6d8b62c92e0\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\10200895828a97f345b2c6d8b62c92e0\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\7f4c42c1c3c6ebd681e475a59f065589\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\7f4c42c1c3c6ebd681e475a59f065589\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\98e4eac5dbabdc03dc9a3208d4ac5a12\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\98e4eac5dbabdc03dc9a3208d4ac5a12\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\6f8a1c65b62d3d41d59ae57c34d2003d\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\6f8a1c65b62d3d41d59ae57c34d2003d\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\7298b494b9a7f8fb03baaa6f856a206c\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\7298b494b9a7f8fb03baaa6f856a206c\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\250ab090dfc5bec91fd73a0507b9ad4f\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\250ab090dfc5bec91fd73a0507b9ad4f\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\e17bdec46d5ed3de9528472d4402ade8\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\e17bdec46d5ed3de9528472d4402ade8\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\cebdbf0203f70fcdd27366005c819665\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\cebdbf0203f70fcdd27366005c819665\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\58eb7d79e1e64a19fff6d1a1c648b27f\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\58eb7d79e1e64a19fff6d1a1c648b27f\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\439966cf1b8cc1f27bb07abb4ba5dfaf\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\439966cf1b8cc1f27bb07abb4ba5dfaf\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\a08a61d091975000a4dce67a59e2d28a\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\a08a61d091975000a4dce67a59e2d28a\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\d344556663e01f06659c4b7ee7cd264e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\d344556663e01f06659c4b7ee7cd264e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\a1ba948683f1cc3fb6b9651269eda2cf\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\a1ba948683f1cc3fb6b9651269eda2cf\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\f47ed8effeee6c20e76fded34a1f3fde\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\f47ed8effeee6c20e76fded34a1f3fde\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\222e134cba2d349f1e4065f697f9cee3\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\222e134cba2d349f1e4065f697f9cee3\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\b0cf5ff9a9e3bf92de74d76f28de8f48\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\b0cf5ff9a9e3bf92de74d76f28de8f48\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\8c87e949e9f9d3cdf435adfefa7cc286\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\8c87e949e9f9d3cdf435adfefa7cc286\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\6217ae39eb11b529fe17c9fec473abce\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\6217ae39eb11b529fe17c9fec473abce\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\227b0a1796476d93b382253a71582657\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\227b0a1796476d93b382253a71582657\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\0fd693cbeda8be952cfd72e782f62993\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\0fd693cbeda8be952cfd72e782f62993\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\f814974419152abc412d9d41345c2be3\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\f814974419152abc412d9d41345c2be3\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\fe0f2cef3026b205617f05f4741c49e4\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\fe0f2cef3026b205617f05f4741c49e4\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\a577a4f2d9e6384dbceeb5e0ea30a993\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\a577a4f2d9e6384dbceeb5e0ea30a993\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\222d2d3818c539e35ee4f60deabbc412\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\222d2d3818c539e35ee4f60deabbc412\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\5e02444273c6a07c53ce8cd033ff27e1\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\5e02444273c6a07c53ce8cd033ff27e1\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\593fd7784a3adf6978e158c9ea2ee8a9\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\593fd7784a3adf6978e158c9ea2ee8a9\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\ec7322b324972afb3f9d545d46482270\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\ec7322b324972afb3f9d545d46482270\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\af74bd3e08f2c69a186c33b37158b9d9\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\af74bd3e08f2c69a186c33b37158b9d9\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\5d2605c4aa56930ff6c6da778c82889b\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\5d2605c4aa56930ff6c6da778c82889b\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\6cbcfb2ce82b6124d3e0157ed6461498\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\6cbcfb2ce82b6124d3e0157ed6461498\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\f7e4217367496a423c08b58cd7a649f8\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\f7e4217367496a423c08b58cd7a649f8\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\a16ef9f377ada6515a2739603d983dff\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\a16ef9f377ada6515a2739603d983dff\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\8275c6f89d23e4cfe8d5dd5efa714638\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\8275c6f89d23e4cfe8d5dd5efa714638\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Pichau\Desktop\cube-quiz\CubeQuiz\app\src\main\AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\361d5b78b80b012b48922aec0b065fc2\jetified-firebase-auth-19.3.1\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\361d5b78b80b012b48922aec0b065fc2\jetified-firebase-auth-19.3.1\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\361d5b78b80b012b48922aec0b065fc2\jetified-firebase-auth-19.3.1\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\361d5b78b80b012b48922aec0b065fc2\jetified-firebase-auth-19.3.1\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\361d5b78b80b012b48922aec0b065fc2\jetified-firebase-auth-19.3.1\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\361d5b78b80b012b48922aec0b065fc2\jetified-firebase-auth-19.3.1\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\361d5b78b80b012b48922aec0b065fc2\jetified-firebase-auth-19.3.1\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\361d5b78b80b012b48922aec0b065fc2\jetified-firebase-auth-19.3.1\AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\361d5b78b80b012b48922aec0b065fc2\jetified-firebase-auth-19.3.1\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\390bbd04b02f338748e9aea7567d5f1b\jetified-firebase-database-19.3.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\390bbd04b02f338748e9aea7567d5f1b\jetified-firebase-database-19.3.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\8b16677cce4ed498aa5a89d0d2810cc0\jetified-firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\8b16677cce4ed498aa5a89d0d2810cc0\jetified-firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\361d5b78b80b012b48922aec0b065fc2\jetified-firebase-auth-19.3.1\AndroidManifest.xml:35:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\8b16677cce4ed498aa5a89d0d2810cc0\jetified-firebase-common-19.3.0\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\8b16677cce4ed498aa5a89d0d2810cc0\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\361d5b78b80b012b48922aec0b065fc2\jetified-firebase-auth-19.3.1\AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\361d5b78b80b012b48922aec0b065fc2\jetified-firebase-auth-19.3.1\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\361d5b78b80b012b48922aec0b065fc2\jetified-firebase-auth-19.3.1\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.3.1] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\361d5b78b80b012b48922aec0b065fc2\jetified-firebase-auth-19.3.1\AndroidManifest.xml:37:17-109
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\390bbd04b02f338748e9aea7567d5f1b\jetified-firebase-database-19.3.0\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\390bbd04b02f338748e9aea7567d5f1b\jetified-firebase-database-19.3.0\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\390bbd04b02f338748e9aea7567d5f1b\jetified-firebase-database-19.3.0\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\390bbd04b02f338748e9aea7567d5f1b\jetified-firebase-database-19.3.0\AndroidManifest.xml:26:22-64
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\390bbd04b02f338748e9aea7567d5f1b\jetified-firebase-database-19.3.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\390bbd04b02f338748e9aea7567d5f1b\jetified-firebase-database-19.3.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.3.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\390bbd04b02f338748e9aea7567d5f1b\jetified-firebase-database-19.3.0\AndroidManifest.xml:33:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\0efd6e16c430e6784fadd19e6d5d8f7d\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\0efd6e16c430e6784fadd19e6d5d8f7d\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\0efd6e16c430e6784fadd19e6d5d8f7d\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\0efd6e16c430e6784fadd19e6d5d8f7d\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\8b16677cce4ed498aa5a89d0d2810cc0\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\8b16677cce4ed498aa5a89d0d2810cc0\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\8b16677cce4ed498aa5a89d0d2810cc0\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\8b16677cce4ed498aa5a89d0d2810cc0\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\8b16677cce4ed498aa5a89d0d2810cc0\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\673ad0707d733aa5817b98bae7b95b87\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\673ad0707d733aa5817b98bae7b95b87\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Pichau\.gradle\caches\transforms-2\files-2.1\673ad0707d733aa5817b98bae7b95b87\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58

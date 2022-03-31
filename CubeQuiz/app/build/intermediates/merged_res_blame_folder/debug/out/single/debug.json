@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_questao1.xml.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\layout\\activity_questao1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cadastro.xml.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\layout\\activity_cadastro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_warning_ic.png.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\mipmap-mdpi\\warning_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_questao5.xml.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\layout\\activity_questao5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_warning_ic.png.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\mipmap-xhdpi\\warning_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_leo.png.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\drawable-v24\\leo.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_cris.png.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\drawable-v24\\cris.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_dinamarca.png.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\drawable-v24\\dinamarca.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_warning_ic.png.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\mipmap-xxhdpi\\warning_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bt_cadastro.xml.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\drawable-v24\\bt_cadastro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_desenvolvedores.xml.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\layout\\activity_desenvolvedores.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_questao4.xml.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\layout\\activity_questao4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_warning_ic.png.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\mipmap-hdpi\\warning_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo.png.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\drawable-v24\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tempo.png.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\drawable-v24\\tempo.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_questao8.xml.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\layout\\activity_questao8.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_passwd.png.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\drawable-v24\\passwd.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_joao.xml.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\layout\\fragment_joao.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_gui.png.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\drawable-v24\\gui.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_um.png.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\drawable-v24\\um.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_questao3.xml.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\layout\\activity_questao3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_loading.png.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\drawable-v24\\loading.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_hulk.png.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\drawable-v24\\hulk.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_questao10.xml.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\layout\\activity_questao10.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_loading.xml.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\layout\\activity_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_cavalo.png.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\drawable-v24\\cavalo.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_cris.xml.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\layout\\fragment_cris.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_gui.xml.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\layout\\fragment_gui.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_questao7.xml.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\layout\\activity_questao7.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_descartes.png.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\drawable-v24\\descartes.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_joao.png.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\drawable-v24\\joao.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tela_jogar.xml.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\layout\\activity_tela_jogar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bt_enviar.xml.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\drawable-v24\\bt_enviar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_questao9.xml.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\layout\\activity_questao9.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_questao2.xml.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\layout\\activity_questao2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_warning_ic.png.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\mipmap-xxxhdpi\\warning_ic.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_sol.png.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\drawable-v24\\sol.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_questao6.xml.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\layout\\activity_questao6.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_leo.xml.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\layout\\fragment_leo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_dinheiro.png.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\drawable-v24\\dinheiro.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_matematica.png.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\drawable-v24\\matematica.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pontos_final.xml.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\layout\\activity_pontos_final.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_user.png.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\drawable-v24\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_war.png.flat",
+        "source": "C:\\Users\\Pichau\\Desktop\\cube-quiz\\CubeQuiz\\app\\src\\main\\res\\drawable-v24\\war.png"
+    }
+]

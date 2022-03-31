@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">831052470959-r6o934rce5k1a75rvjf9j5ok18g8of8l.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">831052470959</string>
+    <string name="google_api_key" translatable="false">AIzaSyCBQHF3-F_NLEawPmPuH0m6sdE2MNgIJYM</string>
+    <string name="google_app_id" translatable="false">1:831052470959:android:7ac61ae054d52ef80b125a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCBQHF3-F_NLEawPmPuH0m6sdE2MNgIJYM</string>
+    <string name="google_storage_bucket" translatable="false">cubequiz-f48e0.appspot.com</string>
+    <string name="project_id" translatable="false">cubequiz-f48e0</string>
+</resources>
