@@ -1,13 +1,13 @@
 
 
-![Logo](screenshot.png)
+![Logo](logo.png)
 
 My first App and project this is a general knowledge quiz.
 
 
 ## Screenshots
 
-![App Screenshot](logo.png)
+![App Screenshot](screenshot.png)
 
 
 ## Language Used
